@@ -1,13 +1,20 @@
 [![MasterHead](https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif)](https://tannu610.io)
 
-<h1 align="center">Hi 👋, I'm Tannu</h1>
-<h3 align="center">A passionate Front-End developer from India.</h3>
-<img aling="right" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<h1 align="left">Hi 👋, I'm Tannu</h1>
+<h3 align="left">A passionate Web developer from India.</h3>
+<p align="left">I am skilled in front-end technologies like Javascript,HTML5,CSS3.</p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img aling="left" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannu610&label=Profile%20views&color=0e75b6&style=flat" alt="tannu610" /> </p>
 
-- 🌱 I’m currently learning **javaScript, React-JS**
+## Some things about me:
 
+- 👩‍💻 I build things with HTML,CSS,JS.
+
+- 🌱 I’m currently learning **javaScript, React-JS**/
+ 
 - 📫 How to reach me **tannujha0610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

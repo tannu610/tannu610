@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/www-inside-design/uploads/2015/08/hero-rwd-1-animated.gif)](https://tannu610.io)
+[![MasterHead](https://i.gifer.com/6L8E.gif)](https://tannu610.io)
 
 <h1 align="center">Hi 👋, I'm Tannu</h1>
 <h3 align="center">A passionate Front-End developer from India.</h3>

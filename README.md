@@ -15,6 +15,8 @@
 - 👩‍💻 I build things with HTML,CSS,JS.
 
 - 🌱 I’m currently learning **javaScript, React-JS**/
+
+- ❤️ I love reading books, Tech. blogs 
  
 - 📫 How to reach me **tannujha0610@gmail.com**
 

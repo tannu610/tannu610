@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Tannu</h1>
 <h3 align="left">A passionate Web developer from India.</h3>
 <p align="left">I am skilled in front-end technologies like Javascript,HTML5,CSS3.</p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img aling="left" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
 

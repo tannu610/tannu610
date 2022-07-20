@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/6L8E.gif)](https://tannu610.io)
+[![MasterHead](https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif)](https://tannu610.io)
 
 <h1 align="center">Hi 👋, I'm Tannu</h1>
 <h3 align="center">A passionate Front-End developer from India.</h3>

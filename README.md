@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif)](https://tannu610.io)
 
 <h1 align="center">Hi 👋, I'm Tannu</h1>
-<h3 align="center">A Student & A Web developer from India.</h3>
+<h3 align="center"> Student & A Web developer from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannu610&label=Profile%20views&color=0e75b6&style=flat" alt="tannu610" /> </p>

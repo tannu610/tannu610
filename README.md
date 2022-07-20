@@ -1,14 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/f4/20/ac/f420ace45d8631e25156b685e0e87607.gif)](https://tannu610.io)
 
-<h1 align="left">Hi 👋, I'm Tannu</h1>
-<h3 align="left">A passionate Web developer from India.</h3>
-<p align="left">I am skilled in front-end technologies like Javascript,HTML5,CSS3.</p>
-
-
-<img aling="left" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"/>
+<h1 align="center">Hi 👋, I'm Tannu</h1>
+<h3 align="center">A passionate Web developer from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannu610&label=Profile%20views&color=0e75b6&style=flat" alt="tannu610" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 ## Some things about me:
 

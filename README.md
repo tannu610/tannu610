@@ -1,4 +1,3 @@
-[![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX31609797.jpg)](https://tannu610.io)
 
 <h1 align="center">Hi 👋, I'm Tannu</h1>
 <h3 align="center">she in tech</h3>
